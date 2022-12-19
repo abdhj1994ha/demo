@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     { "id": 1, "FN": "abd1", "LN": "hj1" },
     { "id": 2, "FN": "abd2", "LN": "hj2" },
     { "id": 3, "FN": "abd3", "LN": "hj3" }
